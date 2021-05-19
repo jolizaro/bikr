@@ -25,6 +25,7 @@ const sess = {
 };
 
 app.use(session(sess));
+console.log("heroku")
 
 // Inform Express.js on which template engine to use
 app.engine('handlebars', hbs.engine);
