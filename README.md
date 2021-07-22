@@ -1,6 +1,10 @@
 # PROJECT 02
 ## Bikr App
+<<<<<<< HEAD
 * [Live Link]()
+=======
+* [Live Link](https://rocky-cliffs-71386.herokuapp.com/)
+>>>>>>> 49ad026703360de2a6d1c78453e42111947cb72c
 * [Repo Link](https://github.com/stevenstefanov/bikr)
 
 ## Description
